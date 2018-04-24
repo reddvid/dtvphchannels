@@ -13,7 +13,7 @@ Channel Number|Frequency (kHz)| | | | | Subchannels | | | | |Notes
 38|617143|UNTV-1|STV|TRUTH CHANNEL|UNTV Reserve|UNTV 1SEG| | | | | |
 40|629143|SMNI HD|SNC HD|SNC HD|SMNI 1Seg*| | | | | |*Unconfirmed
 42|641143|PTV HD1|PTV HD2|PTV SD3|PTV 1SEG| | | | | |
-43|647143|ABS-CBN|SPORTS+ACTION|CINEMO!*|YEY!*|KNOWLEDGE CHANNEL|DZMM TELERADYO*|KBO**|ABS-CBN Oneseg| |*TV+ exclusive</br>**Exclusive/Pay-per-view
+43|647143|ABS-CBN|SPORTS+ACTION|CINEMO!*|YEY!*|KNOWLEDGE CHANNEL*|DZMM TELERADYO*|KBO**|ABS-CBN Oneseg| |*TV+ exclusive</br>**Exclusive/Pay-per-view
 44|653143|Hope Phil HD|3ABN|Hope Int'l|GNN| | | | | |
 49|683143|INCTV HD|NET25 HD|INCTV SD|NET25-1seg| | | | | |
 51|695143|TV5|AKSYON TV|TV5 1SEG| | | | | | |
